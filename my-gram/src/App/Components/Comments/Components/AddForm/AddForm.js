@@ -15,7 +15,7 @@ const styles = theme => ({
   }
 });
 
-class AddForm extends React.Component {
+class AddFormComponent extends React.Component {
   handleSubmit(e) {
     e.preventDefault();
     const { postCode } = this.props;
@@ -73,11 +73,11 @@ class AddForm extends React.Component {
   }
 }
 
-AddForm.propTypes = {
+AddFormComponent.propTypes = {
   classes: PropTypes.object.isRequired
 };
 
 // eslint-disable-next-line no-unused-vars
-const AddCommentsForm = withStyles(styles)(AddForm);
+const AddForm = withStyles(styles)(AddFormComponent);
 
 export default AddForm;
