@@ -9,15 +9,6 @@ const posts = [
       )}`
     },
     {
-      code: "j-MPRQOJfVU",
-      caption: "Heroes",
-      likes: 1000000,
-      id: "1160844458347054781",
-      display_src: `https://unsplash.com/photos/400/400/?image=${Math.floor(
-        Math.random() * 85
-      )}`
-    },
-    {
       code: "CSs8aiN_LkI",
       caption:
         "Summer Holidays",
@@ -47,7 +38,7 @@ const posts = [
       )}`
     },
     {
-      code: "/iANAdaNu7mg",
+      code: "iANAdaNu7mg",
       caption: "Good Vibes only",
       likes: 33,
       id: "1117418173361145365",
@@ -56,17 +47,7 @@ const posts = [
       )}`
     },
     {
-      code: "uX7UOpU-884",
-      caption:
-        "Computer set up",
-      likes: 30,
-      id: "1162418651480049646",
-      display_src: `https://unsplash.com/photos/400/400/?image=${Math.floor(
-        Math.random() * 85
-      )}`
-    },
-    {
-      code: "8Lymqsw5YV4",
+      code: "Lymqsw5YV4",
       caption: "The Legend",
       likes: 40,
       id: "1152964002473690553",
@@ -75,7 +56,7 @@ const posts = [
       )}`
     },
     {
-      code: "-pSOAtdMVlk",
+      code: "pSOAtdMVlk",
       caption: "Viber",
       likes: 74,
       id: "1141561999742846119",
@@ -87,7 +68,7 @@ const posts = [
     {
       code: "wdc9ZAiwBB4",
       caption:
-        "",
+        "Moments",
       likes: 57,
       id: "1135147611821557699",
       display_src: `https://unsplash.com/photos/400/400/?image=${Math.floor(
